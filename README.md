@@ -5,7 +5,7 @@ List of unique sites with good data sets to practice with. More will be added to
 https://www.earthdata.nasa.gov/learn/gis/data-recipes 
 
 ## Chinook Database:
-- You create a relational database containing real world transactional data that can be used to practice SQL queries and more.
+You create a relational database containing real world transactional data that can be used to practice SQL queries and more.
 https://github.com/lerocha/chinook-database
 
 ## Principles of Econometrics, 5th Edition
